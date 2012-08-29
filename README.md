@@ -15,7 +15,7 @@ Example usage of obfu_ruby.rb:$ obfu_ruby.rb script test.js
 
 Copyright (c) <2012> <Patricio Palladino>
 Hieroglyphy, Python port from JavasCript version by <Patricio Palladino>
-alcuadrado@github ~ mattaereal@github
+alcuadrado@github ~ mattaereal@github ~ kernelsmith@github
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
