@@ -3,7 +3,7 @@
 A tool and library for converting javascript strings, numbers, and scripts to
 equivalent sequences of ()[]{}+! characters that run in the browser.
 (Currently Internet Explorer is not supported as it does not support accessing
-a string as an array of characters)
+a string as an array of characters)  Tested on Ruby 1.8.7 and should work on 1.9x
 
 ## Usage and installation
 
