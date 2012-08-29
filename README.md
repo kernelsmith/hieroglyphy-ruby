@@ -14,8 +14,11 @@ Example usage of obfu_ruby.rb:$ obfu_ruby.rb script test.js
 ## This ruby code was ported from the resources below
 
 Copyright (c) <2012> <Patricio Palladino>
-Hieroglyphy, Python port from JavasCript version by <Patricio Palladino>
+Hieroglyphy, Python port from JavaScript version by <Patricio Palladino>
 alcuadrado@github ~ mattaereal@github ~ kernelsmith@github
+original blog:  http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html
+original js code:  https://github.com/alcuadrado/hieroglyphy
+python:  https://github.com/mattaereal/hieroglyphy.py
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
