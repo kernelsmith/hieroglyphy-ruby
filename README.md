@@ -2,16 +2,12 @@
 
 A tool and library for converting javascript strings, numbers, and scripts to
 equivalent sequences of ()[]{}+! characters that run in the browser.
-<<<<<<< HEAD
-(Currently Internet Explorer is not supported as it does not support accessing
-a string as an array of characters)  Tested on Ruby 1.8.7 and should work on 1.9x
-=======
+
 (Currently Internet Explorer is only supported if the html keeps the browser in
 standards mode, this is most common when the html includes the following strict DOCTYPE
 declaration and does not use deprecated elements)
     <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 (This was tested on IE8 and IE9)
->>>>>>> updated readme's to include IE support
 
 ## Usage and installation
 
