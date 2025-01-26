@@ -21,7 +21,9 @@ Copyright (c) <2012> <Patricio Palladino>
 Hieroglyphy, Python port from JavaScript version by <Patricio Palladino>
 alcuadrado@github ~ mattaereal@github ~ kernelsmith@github
 
-original blog:  http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html
+original blog: 
+The original blog is gone, so here is a link to it in the wayback machine 
+http://web.archive.org/web/20191227070053/http://patriciopalladino.com/blog/2012/08/09/non-alphanumeric-javascript.html
 
 original js code:  https://github.com/alcuadrado/hieroglyphy
 
